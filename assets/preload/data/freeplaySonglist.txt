@@ -1,0 +1,6 @@
+Tutorial:gf:1
+Suspicious:crew:2
+Meeting:crew:2
+Vented:sus:2
+Double Kill:duo:3
+Mongus:mongus:4

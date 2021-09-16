@@ -2285,8 +2285,6 @@ class PlayState extends MusicBeatState
 			FlxG.sound.music.stop();
 
 		switch (curSong.toLowerCase()){
-			case 'meeting':
-				openSubState(new SusGameOverSubState());
 			default:
 				openSubState(new GameOverSubstate(boyfriend.getScreenPosition().x, boyfriend.getScreenPosition().y));
 		}
